@@ -19,7 +19,7 @@
     "shortid": "^2.2.8",
     "simpl-schema": "^1.1.0"
   },
-  "engine": {
+  "engines": {
     "node": "8.8.1"
   }
 }
